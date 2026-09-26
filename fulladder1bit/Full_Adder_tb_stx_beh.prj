@@ -1,0 +1,2 @@
+vhdl isim_temp "fulladder1bit.vhd"
+vhdl isim_temp "fulladder1bittest.vhd"
