@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/r1bit/master_slave_dff.xst" -ofn "/home/ise/r1bit/master_slave_dff.syr" 
+xst -intstyle ise -ifn "/home/ise/r1bit/master_slave_dff.xst" -ofn "/home/ise/r1bit/master_slave_dff.syr" 

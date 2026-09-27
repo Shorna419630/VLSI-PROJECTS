@@ -1,0 +1,20 @@
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/d.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/master_slave_dff.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/register1bit.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/register8bit.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/sr.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/tb_d_latch.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/tb_master_slave_dff.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/tb_register_1bit.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/tb_register_8bit.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/tb_sr_latch.vhd" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/d.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/master_slave_dff.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/register1bit.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/register8bit.vhd" into library work
+INFO:HDLCompiler:1061 - Parsing VHDL file "/home/ise/r1bit/sr.vhd" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Launching Design Summary/Report Viewer...
+WARNING:ProjectMgmt - File /home/ise/r1bit/tb_register_8bit_beh.prj is missing.
+WARNING:ProjectMgmt - File /home/ise/r1bit/tb_register_8bit_isim_beh.wdb is missing.

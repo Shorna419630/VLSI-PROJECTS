@@ -1,0 +1,10 @@
+Command line:
+   tb_master_slave_dff_isim_beh.exe
+     -simmode  gui
+     -simrunnum  2
+     -socket  48432
+
+Sat Sep 26 15:56:46 2026
+
+
+ Elaboration Time: 0.15 sec

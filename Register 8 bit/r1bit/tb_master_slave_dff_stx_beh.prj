@@ -1,0 +1,3 @@
+vhdl isim_temp "d.vhd"
+vhdl isim_temp "master_slave_dff.vhd"
+vhdl isim_temp "tb_master_slave_dff.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/r1bit/tb_d_latch_isim_beh.exe" -prj "/home/ise/r1bit/tb_d_latch_beh.prj" "work.tb_d_latch" 

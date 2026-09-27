@@ -1,0 +1,2 @@
+vhdl work "d.vhd"
+vhdl work "tb_d_latch.vhd"

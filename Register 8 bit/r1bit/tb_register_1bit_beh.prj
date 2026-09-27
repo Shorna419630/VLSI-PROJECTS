@@ -1,0 +1,4 @@
+vhdl work "d.vhd"
+vhdl work "master_slave_dff.vhd"
+vhdl work "register1bit.vhd"
+vhdl work "tb_register_1bit.vhd"
