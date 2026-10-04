@@ -1,0 +1,6 @@
+vhdl isim_temp "full1.vhd"
+vhdl isim_temp "full8.vhd"
+vhdl isim_temp "re8.vhd"
+vhdl isim_temp "al.vhd"
+vhdl isim_temp "alure.vhd"
+vhdl isim_temp "alutb.vhd"

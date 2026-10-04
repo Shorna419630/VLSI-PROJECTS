@@ -1,0 +1,10 @@
+Command line:
+   tb_alu8_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  38101
+
+Mon Sep 28 17:26:16 2026
+
+
+ Elaboration Time: 0.14 sec

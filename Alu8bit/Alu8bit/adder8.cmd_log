@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/Alu8bit/adder8.xst" -ofn "/home/ise/Alu8bit/adder8.syr" 
+xst -intstyle ise -ifn "/home/ise/Alu8bit/adder8.xst" -ofn "/home/ise/Alu8bit/adder8.syr" 
