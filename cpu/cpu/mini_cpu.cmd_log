@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/cpu/mini_cpu.xst" -ofn "/home/ise/cpu/mini_cpu.syr" 

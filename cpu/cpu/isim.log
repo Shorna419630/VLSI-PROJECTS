@@ -1,0 +1,24 @@
+ISim log file
+Running: /home/ise/cpu/tb_mini_cpu_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/cpu/tb_mini_cpu_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /tb_mini_cpu/DUT/ROM_UNIT/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+Finished circuit initialization process.
+at 16 ns: Note: LDI passed (/tb_mini_cpu/).
+at 26 ns: Note: ADD passed (/tb_mini_cpu/).
+at 36 ns: Note: SUB 0B passed (/tb_mini_cpu/).
+at 46 ns: Note: AND passed (/tb_mini_cpu/).
+at 56 ns: Note: OR passed (/tb_mini_cpu/).
+at 66 ns: Note: Zero flag test passed (/tb_mini_cpu/).
+at 76 ns: Note: 8-bit subtraction test passed (/tb_mini_cpu/).
+at 76 ns: Note: All CPU tests completed successfully. (/tb_mini_cpu/).

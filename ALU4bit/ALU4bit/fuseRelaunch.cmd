@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/ALU4bit/ALU_4bit_TB_isim_beh.exe" -prj "/home/ise/ALU4bit/ALU_4bit_TB_beh.prj" "work.ALU_4bit_TB" 

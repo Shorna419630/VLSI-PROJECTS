@@ -1,0 +1,32 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/ise/cpu/tb_mini_cpu_isim_beh.exe -prj /home/ise/cpu/tb_mini_cpu_beh.prj work.tb_mini_cpu 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/cpu/Rom.vhd" into library work
+Parsing VHDL file "/home/ise/cpu/pc.vhd" into library work
+Parsing VHDL file "/home/ise/cpu/controlunit.vhd" into library work
+Parsing VHDL file "/home/ise/cpu/alu.vhd" into library work
+Parsing VHDL file "/home/ise/cpu/acc_z.vhd" into library work
+Parsing VHDL file "/home/ise/cpu/cpu.vhd" into library work
+Parsing VHDL file "/home/ise/cpu/tb_mini_cpu.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 96840 KB
+Fuse CPU Usage: 2420 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity program_counter [program_counter_default]
+Compiling architecture behavioral of entity program_rom [program_rom_default]
+Compiling architecture behavioral of entity control_unit [control_unit_default]
+Compiling architecture behavioral of entity alu [alu_default]
+Compiling architecture behavioral of entity acc_z_register [acc_z_register_default]
+Compiling architecture structural of entity mini_cpu [mini_cpu_default]
+Compiling architecture simulation of entity tb_mini_cpu
+Time Resolution for simulation is 1ps.
+Compiled 16 VHDL Units
+Built simulation executable /home/ise/cpu/tb_mini_cpu_isim_beh.exe
+Fuse Memory Usage: 111668 KB
+Fuse CPU Usage: 2820 ms
+GCC CPU Usage: 1740 ms

@@ -1,0 +1,7 @@
+vhdl work "Rom.vhd"
+vhdl work "pc.vhd"
+vhdl work "controlunit.vhd"
+vhdl work "alu.vhd"
+vhdl work "acc_z.vhd"
+vhdl work "cpu.vhd"
+vhdl work "tb_mini_cpu.vhd"

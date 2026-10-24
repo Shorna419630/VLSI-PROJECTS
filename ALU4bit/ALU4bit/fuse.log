@@ -1,0 +1,31 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/ise/ALU4bit/ALU_4bit_TB_isim_beh.exe -prj /home/ise/ALU4bit/ALU_4bit_TB_beh.prj work.ALU_4bit_TB 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/ALU4bit/fulladder1bit.vhd" into library work
+Parsing VHDL file "/home/ise/ALU4bit/OR.vhd" into library work
+Parsing VHDL file "/home/ise/ALU4bit/MUX.vhd" into library work
+Parsing VHDL file "/home/ise/ALU4bit/AND.vhd" into library work
+Parsing VHDL file "/home/ise/ALU4bit/adder4bit.vhd" into library work
+Parsing VHDL file "/home/ise/ALU4bit/ALU4bit.vhd" into library work
+Parsing VHDL file "/home/ise/ALU4bit/ALU_4bit_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95480 KB
+Fuse CPU Usage: 2930 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity AND_Unit [and_unit_default]
+Compiling architecture behavioral of entity OR_Unit [or_unit_default]
+Compiling architecture behavioral of entity Full_Adder [full_adder_default]
+Compiling architecture structural of entity Adder_4bit [adder_4bit_default]
+Compiling architecture behavioral of entity MUX_4to1 [mux_4to1_default]
+Compiling architecture structural of entity ALU_4bit [alu_4bit_default]
+Compiling architecture behavioral of entity alu_4bit_tb
+Time Resolution for simulation is 1ps.
+Compiled 15 VHDL Units
+Built simulation executable /home/ise/ALU4bit/ALU_4bit_TB_isim_beh.exe
+Fuse Memory Usage: 104196 KB
+Fuse CPU Usage: 3100 ms
+GCC CPU Usage: 2150 ms

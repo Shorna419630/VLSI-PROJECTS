@@ -1,0 +1,10 @@
+Command line:
+   tb_mini_cpu_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  58717
+
+Sat Oct 10 18:52:34 2026
+
+
+ Elaboration Time: 0.19 sec

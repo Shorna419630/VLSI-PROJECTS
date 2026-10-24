@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/cpu/alu.xst" -ofn "/home/ise/cpu/alu.syr" 
+xst -intstyle ise -ifn "/home/ise/cpu/alu.xst" -ofn "/home/ise/cpu/alu.syr" 

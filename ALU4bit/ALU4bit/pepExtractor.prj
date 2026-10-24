@@ -1,0 +1,6 @@
+work	"ALU4bit.vhd"
+work	"AND.vhd"
+work	"MUX.vhd"
+work	"OR.vhd"
+work	"adder4bit.vhd"
+work	"fulladder1bit.vhd"
